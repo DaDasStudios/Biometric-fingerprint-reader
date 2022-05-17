@@ -1,0 +1,74 @@
+[
+    {
+        "id": 4,
+        "name": "David P\u00e9rez",
+        "code": "2420221020",
+        "age": 16,
+        "carrer": "Ingenier\u00eda electr\u00f3nica",
+        "semester": 1,
+        "photo": "./images/david.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Fabi\u00e1n Collazos",
+        "code": "2420221030",
+        "age": 17,
+        "carrer": "Ingenier\u00eda electr\u00f3nica",
+        "semester": 1,
+        "photo": "./images/fabian.jpeg"
+    },
+    {
+        "id": 2,
+        "name": "Mar\u00eda Jos\u00e9",
+        "code": "2420221029",
+        "age": 17,
+        "carrer": "Ingenier\u00eda electr\u00f3nica",
+        "semester": 1,
+        "photo": "./images/maria.jpg"
+    },
+    {
+        "id": 1,
+        "name": "Sara Zambrano",
+        "code": "2420221023",
+        "age": 18,
+        "carrer": "Ingenier\u00eda electr\u00f3nica",
+        "semester": 1,
+        "photo": "./images/sara.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Juan Liberato",
+        "code": "2420221012",
+        "age": 17,
+        "carrer": "Ingenier\u00eda electr\u00f3nica",
+        "semester": 1,
+        "photo": "./images/juan.jpeg"
+    },
+    {
+        "id": 6,
+        "name": "Marianella",
+        "code": "2420221026",
+        "age": 18,
+        "carrer": "Ingenier\u00eda electr\u00f3nica",
+        "semester": 1,
+        "photo": "./images/marianella.jpeg"
+    },
+    {
+        "id": 7,
+        "name": "Example name",
+        "code": 2420221234,
+        "age": 18,
+        "carrer": "Any",
+        "semester": 1,
+        "photo": "./images/default-img.png"
+    },
+    {
+        "id": 12,
+        "name": "Example name",
+        "code": 2420221234,
+        "age": 18,
+        "carrer": "Any",
+        "semester": 1,
+        "photo": "./images/default-img.png"
+    }
+]
